@@ -1,5 +1,5 @@
 ### Hi there 👋
-I've seen you've stumbled upon my profile 🤔
+I've seen you've stumbled upon my profile 🤔 <br />
 Here's a quick intro about me
 ### Who I am
 Hey, I'm Hira Ali, a passionate programmer out here 
