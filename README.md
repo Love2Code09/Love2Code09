@@ -1,5 +1,28 @@
 ### Hi there 👋
+I've seen you've stumbled upon my profile 🤔
+Here's a quick intro about me
+### Who I am
+Hey, I'm Hira Ali, a passionate programmer out here 
+in the USA 🇺🇸
+I've been coding for four years now, and I've built 
+100's of projects. 
+### My Skills 😎
+ • HTML<br />
+ • CSS <br />
+ • JavaScript <br />
+ • Jquery
+### Learning in 2021 🙌
+  • React
+  • Node
+  • Python OR Java
+### My websites 🌍
 
+www.covidinfo.epizy.com
+www.virtuallystable.ml
+### Get in touch
+Want me to make your website? Have any questions? 
+Contact me on sololearn 
+https://www.sololearn.com/Profile/13289798/?ref=app
 <!--
 **Love2Code09/Love2Code09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
