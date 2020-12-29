@@ -12,8 +12,8 @@ I've been coding for four years now, and I've built
  • JavaScript <br />
  • Jquery
 ### Learning in 2021 🙌
-  • React
-  • Node
+  • React <br />
+  • Node <br />
   • Python OR Java
 ### My websites 🌍
 
