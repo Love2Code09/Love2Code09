@@ -17,8 +17,8 @@ I've been coding for four years now, and I've built
   • Python OR Java
 ### My websites 🌍
 
-www.covidinfo.epizy.com (meh, just made it for fun)
-www.virtuallystable.ml (I know it's horrible already)
+www.covidinfo.epizy.com 
+
 ### Get in touch
 Want me to make your website? Have any questions? 
 Contact me on sololearn 
