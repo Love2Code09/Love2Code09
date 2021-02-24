@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
+
 I've seen you've stumbled upon my profile 🤔 <br />
 Here's a quick intro about me
 ### Who I am
@@ -6,19 +7,24 @@ Hey, I'm Hira Ali, a passionate programmer out here
 in the USA 🇺🇸
 I've been coding for four years now, and I've built 
 100's of projects. 
-### My Skills 😎
- • HTML<br />
- • CSS <br />
- • JavaScript <br />
- • Jquery
-### Learning in 2021 🙌
-  • React <br />
-  • Node <br />
-  • Python OR Java
-### My websites 🌍
 
-www.covidinfo.epizy.com 
+<h3>My Skills 😎</h3>
 
+  <ul>
+ <li> HTML </li>
+ <li> CSS </li>
+ <li> JavaScript </li>
+ <li> Jquery </li>
+ <li> Bootstrap </li>
+ <li> Firebase </li>
+</ul>
+
+### Github Stats 🙌
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Love2Code09&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+### Top languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Love2Code09)](https://github.com/Love2Code09/github-readme-stats)
 ### Get in touch
 Want me to make your website? Have any questions? 
 Contact me on sololearn 
