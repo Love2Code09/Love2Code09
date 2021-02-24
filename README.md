@@ -2,8 +2,8 @@
 
 I've seen you've stumbled upon my profile 🤔 <br />
 Here's a quick intro about me
-### Who I am
-Hey, I'm Hira Ali, a passionate programmer out here 
+<h2>Who I am</h2>
+Hey, I'm Hira Ali, a passionate teen programmer out here 
 in the USA 🇺🇸
 I've been coding for four years now, and I've built 
 100's of projects. 
@@ -26,8 +26,7 @@ I've been coding for four years now, and I've built
 ### Top languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Love2Code09)](https://github.com/Love2Code09/github-readme-stats)
 ### Get in touch
-Want me to make your website? Have any questions? 
-Contact me on sololearn 
+ Find me on sololearn 
 https://www.sololearn.com/Profile/13289798/?ref=app
 <!--
 **Love2Code09/Love2Code09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
