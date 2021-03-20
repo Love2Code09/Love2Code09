@@ -5,10 +5,12 @@ Here's a quick intro about me
 <h2>Who I am</h2>
 Hey, I'm Hira Ali, a passionate teen programmer out here 
 in the USA 🇺🇸
-I've been coding for four years now, and I've built 
-100's of projects. 
+I've been interested in computer science and 
+engineering from a very young age. I'm looking 
+to build my career in software engineering, and 
+I love trying out diverse technologies.
 
-<h3>My Skills 😎</h3>
+<h3>My Skills </h3>
 
   <ul>
  <li> HTML </li>
