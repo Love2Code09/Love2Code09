@@ -27,9 +27,7 @@ I love trying out diverse technologies.
 
 ### Top languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Love2Code09)](https://github.com/Love2Code09/github-readme-stats)
-### Get in touch
- Find me on sololearn 
-https://www.sololearn.com/Profile/13289798/?ref=app
+
 <!--
 **Love2Code09/Love2Code09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
