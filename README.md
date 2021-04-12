@@ -4,11 +4,12 @@ I've seen you've stumbled upon my profile 🤔 <br />
 Here's a quick intro about me
 <h2>Who I am</h2>
 Hey, I'm Hira Ali, a passionate teen programmer out here 
-in the USA 🇺🇸
+in the USA. 
 I've been interested in computer science and 
-engineering from a very young age. I'm looking 
-to build my career in software engineering, and 
-I love trying out diverse technologies.
+engineering from a very young age, I'm looking 
+to build my career in software engineering 
+I love trying out diverse technologies and I am able to work efficiently with teams.
+
 
 <h3>My Skills </h3>
 
@@ -19,6 +20,7 @@ I love trying out diverse technologies.
  <li> Jquery </li>
  <li> Bootstrap </li>
  <li> Firebase </li>
+ <li> React JS</li>
 </ul>
 
 ### Github Stats 🙌
