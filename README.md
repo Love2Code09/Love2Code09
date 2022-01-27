@@ -1,31 +1,9 @@
-<h1 align = "center">Hi there 👋</h1>
+<h1>Hey 👋</h1>
 
-<p align = "center">I've seen you've stumbled upon my profile 🤔 <br />
-Here's a quick intro about me</p>
+<p>I've seen you've stumbled upon my profile :) <br />
+
 <img src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
-<h2>Who I am</h2>
-Hey, I'm Hira Ali, a passionate teen programmer out here 
-in the USA. 
-I've been interested in computer science and 
-engineering from a very young age, and I'm looking 
-to build my career in software engineering. 
 
-
-
-<h3>My Skills </h3>
-
- <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width = "50px">
- 
- <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width = "50px">
-
- <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width = "50px">
- 
- <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width = "50px">
- 
- <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" width = "50px">
- 
- <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width = "50px">
 
 
 ### Github Stats 🙌
